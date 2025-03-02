@@ -1,6 +1,7 @@
 | Scripts | Status 
 | -------- | -------- 
 | XVCHub |     🟢|
+| Breaking Blitz |     🟢|
 
 | Status meanings | :
 | -------- | -------- 
